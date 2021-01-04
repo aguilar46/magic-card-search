@@ -1,0 +1,21 @@
+x Render mana cost correctly
+x Fetch and cache Mana symbols eagerly
+x Styling
+    x Float cmc right
+    x Float P/T right
+x Planeswalker Loyalty: "loyalty"
+x Types: "type_line"
+x set:
+
+x handle pagination
+    Just added a button to load more.
+
+save search settings
+    sort by
+    custom filter
+Make customer button with margin
+Single Card Inspection
+x Loading Icon
+    x Search Load
+    x Icon Load
+lock header in place?
