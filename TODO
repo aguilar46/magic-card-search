@@ -1,3 +1,12 @@
+Pending
+-------
+save search settings
+    sort by
+    custom filter
+Single Card Inspection
+
+Done
+----
 x Render mana cost correctly
 x Fetch and cache Mana symbols eagerly
 x Styling
@@ -9,12 +18,7 @@ x set:
 
 x handle pagination
     Just added a button to load more.
-
-save search settings
-    sort by
-    custom filter
-Make customer button with margin
-Single Card Inspection
+x Make custom button with margin
 x Loading Icon
     x Search Load
     x Icon Load
